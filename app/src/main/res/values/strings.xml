@@ -1,0 +1,20 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">todolist</string>
+
+    <!-- Main -->
+    <string name="action_settings">设置</string>
+    <string name="action_debug">调试</string>
+    <string name="action_database">数据库</string>
+
+    <!-- Debug -->
+    <string name="print_absolute_path">Print absolute path</string>
+    <string name="request_storage_permission">Request Storage Permission</string>
+    <string name="write_to_file">Write to files</string>
+    <string name="write_to_file_hint">Display your content here</string>
+
+    <!-- Note -->
+    <string name="take_a_note">发布一个要做的事</string>
+    <string name="confirm">确定</string>
+    <string name="level">请选择优先级：</string>
+</resources>
